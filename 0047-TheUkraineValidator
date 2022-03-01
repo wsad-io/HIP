@@ -1,33 +1,41 @@
 # HIP 47: The People's Network Stand by our Own
 
 - Author(s): @IvansGotCode
-- Start Date: 2021-01-11
+- Start Date: n/a
 - Category: economic, technical, moral
-- Original HIP PR: [#110](https://github.com/helium/HIP/pull/110)
-- Tracking Issue: [#111](https://github.com/helium/HIP/issues/111)
-- Frequently Asked Questions: [FAQ](https://github.com/helium/HIP/blob/master/0025-validators.md#frequently-asked-questions)
-- Status: Deployed ([audit](https://github.com/helium/miner/blob/master/audit/var-70.md))
+- Original HIP PR:
+- Tracking Issue: 
+- Frequently Asked Questions:
+- Status: Draft 
 
 ## Summary
 [summary]: #summary
 
-The level of contributions from our friends in Ukraine and their contributions to Helium are beyond question - and missed right now. People who should be at home developing IoT products for Helium, or contributing to projects, or helping build business adoption - are instead, taking up arms or fleeing for their lives and watching everything they have built, we have built - crumble. 
+The level of contributions from our friends in Ukraine and their contributions to Helium are beyond question - and missed right now. 
+People who should be at home developing IoT products for Helium, or contributing to projects, or helping build business adoption - are instead, 
+taking up arms or fleeing for their lives and watching everything they have built, we have built - crumble. 
 
-I believe, I speak, for the rest of the Helium Community when I say we support Ukraine and wish we could do more. I believe we can. 
+I believe, I speak, for the rest of the Helium Community when I say we support Ukraine and wish we could do more. 
 
-This HIP proposes a number of suggestions to put to the Helium Community as a whole to show our support for our brothers and sisters in Ukraine and to help them in the times to come. It proposes, to use systems, we already have, with some slight adjustments - and use the strength of our network and our community to do more than just watch, when our countries are stuck deciding on if they should stand up to a bully or not.  
+This HIP proposes a number of suggestions to put to the Helium Community as a whole to show our support for our brothers and sisters in Ukraine 
+and to help them in the times to come. It proposes, to use systems, we already have, with some slight adjustments - and use the strength of 
+our network and our community to do more than just watch, when our countries are stuck deciding on if they should stand up to a bully or not.  
 
 Fact 1. There are X number of Hotspots online in the Ukraine. But for how long. 
 
-These devices, the people - before this began - were building the People's network. They were providing an active or passive income to people in the Ukraine and the future is uncertain. What is certain, is that, when it comes time for the Ukraine to Rebuild. They will need help, and we can help them do that and prepare for it. 
+These devices, the people - before this began - were building the People's network. They were providing an active or passive income to 
+people in the Ukraine and the future is uncertain. What is certain, is that, when it comes time for the Ukraine to Rebuild. They will need help, 
+and we can help them do that and prepare for it. 
 
 Those that return home, may not have their homes to return to, nevermind their hotspots. 
 
-Fact 2. Hotspots earners in the Ukrane are likly to have their hotspots destroyed, looted, lost and though some may have access to their wallets to withdraw the HNT that is in there it is likely the last thing on their minds. 
+Fact 2. Hotspots earners in the Ukrane are likly to have their hotspots destroyed, looted, lost and though some may have access to their 
+wallets to withdraw the HNT that is in there it is likely the last thing on their minds. 
 
 Watching the level of withdrawn's from wallets asserted in the Ukraine was much lower than expected. 
 
-Fact 3. The cities are been destroyed, they will need to be rebuilt. We can rebuild it with our friends when they return from fighting for their lives smarter. It is in our best interests to keep the hotspots online, but if not, to help those that helped us build the network in the first place, rebuild what they lost. 
+Fact 3. The cities are been destroyed, they will need to be rebuilt. We can rebuild it with our friends when they return from fighting for their lives smarter. 
+It is in our best interests to keep the hotspots online, but if not, to help those that helped us build the network in the first place, rebuild what they lost. 
 
 By the time all this is over, HNT, Helium, the network, will have changed, and many of these early adoptors of helium will have lost everything. We can fix that. 
 
@@ -37,36 +45,56 @@ Part 1: To establish a 'Trust' through use of a multi-signatory wallet either th
 
 This trust will be responsible for a Wallet that will be used in Part 2. 
 
-To establish this trust I suggest putting out a call to those that currently run Validators on the Helium Network, I believe, a trustful trustless system can be established by those already  on the network and running validators. They have both the resources and technical experise to manage it correctly, are known and mostly trusted entities on the network and it makes sense to draw on them to help. If not, we have the resources to manage it internally - but it would lose the trust relationship. This is the people's network and it would be best if it was a multi signatory system. 
+To establish this trust I suggest putting out a call to those that currently run Validators on the Helium Network, I believe, a trustful trustless system 
+can be established by those already  on the network and running validators. 
+
+They have both the resources and technical experise to manage it correctly, are known and mostly trusted entities on the network and it makes sense to draw on them to help.
+
+If not, we have the resources to manage it internally - but it would lose the trust relationship. This is the people's network and it would be best if it was a multi signatory 
+system. 
 
 Part 2: To bring online a special case validator, which, will be managed by the 'Trust' for the purposes that will be layed out below. 
 
 A Validator has a part to play in the Helium Network and it costs 10,000 HNT to stake and bring online and on going operating fees. 
 
-Either it is done by an inidividal or small group who can afford to do so, those with the technical knowledge and trust to manage and operate one themselves or trusted by stake holders to manage it for them. Regular folk in the community, who each stake what they can with such a team and these relationships already exist.
+Either it is done by an inidividal or small group who can afford to do so, those with the technical knowledge and trust to manage and operate one themselves or trusted by 
+stake holders to manage it for them. Regular folk in the community, who each stake what they can with such a team and these relationships already exist.
 
 The 10,000 HNT can be reached - which is required to bring a Validator online and into the system. 
 
-Part 3: Validators have a Staking Limit of 10,000hnt, which, can be changed if needed. It is porposed in Part 3 to remove this limit for this single case valdiator managed by the trust. The Validator, or associated wallets, may need to hold large fudns for a long time. The reason to remove the 10,000 HNT limit is to allow massive staking within the validator as going over 10k HNT requires a new validator to be brought online, but - in this case, we want this validator to enjoy a higher staking limit. 
+Part 3: Validators have a Staking Limit of 10,000hnt, which, can be changed if needed. It is porposed in Part 3 to remove this limit for this single case valdiator managed 
+by the trust. The Validator, or associated wallets, may need to hold large fudns for a long time. The reason to remove the 10,000 HNT limit is to allow massive staking within
+the validator as going over 10k HNT requires a new validator to be brought online, but - in this case, we want this validator to enjoy a higher staking limit. 
 
-The higher staking limit will effect its rewards but it will not earn more or less than any other validator and rewards that would be paid out would be less 'per person staked' than if 10k hnt were the fixed limit. However, in this case, it is ok as the reason to 'Stake' on this validator is 'not' to make back HNT for stake holders to but to 'donate' some HNT to the 'trust' to bring this 'validator' online. The earnings from the Validator will stay with the validator and the initial staking, or over staking, will be accepted to bring it online. 
+The higher staking limit will effect its rewards but it will not earn more or less than any other validator and rewards that would be paid out would be less 'per person staked'
+than if 10k hnt were the fixed limit. However, in this case, it is ok as the reason to 'Stake' on this validator is 'not' to make back HNT for stake holders to but to 
+'donate' some HNT to the 'trust' to bring this 'validator' online. The earnings from the Validator will stay with the validator and the initial staking, or over staking,
+will be accepted to bring it online. 
 
-In all functionality, the validator remains the same and does the same job as a regular validator, the only difference, is that, this validator's 'funds' are held in trust, not paid out to those that 'Staked'.
+In all functionality, the validator remains the same and does the same job as a regular validator, the only difference, is that, this validator's 'funds' are held in trust, 
+not paid out to those that 'Staked'.
 
 Part 4: Those that 'stake' will have a 'badge of honor' but will not recieve any reward for their stake. Instead, the trust will keep the full amount from the Validator. 
 
-Part 5: DeFi alliance. I would like to reach out to the DeFi Alliance to donate some level of HNT to kick start the process. Not only is this a nice thing to do, but DeFi have an oppertunity to show those in the Ukraine that the Decentralized Community can support and help them even when our governments cant. I do not suggest if this should be 1HNT or the full 10k hnt. I only suggest it in solidatory but will rely on the entire community to 'fund' this validator. 
+Part 5: DeFi alliance. I would like to reach out to the DeFi Alliance to donate some level of HNT to kick start the process. Not only is this a nice thing to do, but DeFi
+have an oppertunity to show those in the Ukraine that the Decentralized Community can support and help them even when our governments cant. I do not suggest if this should 
+be 1HNT or the full 10k hnt. I only suggest it in solidatory but will rely on the entire community to 'fund' this validator. 
 
-Part 6: I propose to issue an alert to the Helium App through the normal voting process, to make people aware of this HIP and it's intentions and that those folk, could opt to donate some level of HNT to the 'wallet' that is held in 'Trust' through the app, similiar to voting, by those in Part 1. Each person who donates some level of HNT to the wallet will be 'staked' on the validator in a similiar method to how validator staking groups manage it now. I would reach out to those groups to suggest a method, or common website, or special case UI fixes for their own sites perhaps to make it work. Work in tandum for this case. 
+Part 6: I propose to issue an alert to the Helium App through the normal voting process, to make people aware of this HIP and it's intentions and that those folk, could opt 
+to donate some level of HNT to the 'wallet' that is held in 'Trust' through the app, similiar to voting, by those in Part 1. Each person who donates some level of HNT to 
+the wallet will be 'staked' on the validator in a similiar method to how validator staking groups manage it now. I would reach out to those groups to suggest a method,
+or common website, or special case UI fixes for their own sites perhaps to make it work. Work in tandum for this case. 
 
-Part 7: The amount donated 'may' be more than 10k - the amount of HNT needed for a validator. I prpose, in this case, either we allow this validator to overstake - or - additional validators are brought online. But I do not like that 2nd method. It would mean far to much management for most people, I believe, One validator is enough. 
+Part 7: The amount donated 'may' be more than 10k - the amount of HNT needed for a validator. I prpose, in this case, either we allow this validator to overstake - or 
+- additional validators are brought online. But I do not like that 2nd method. It would mean far to much management for most people, I believe, One validator is enough. 
 
 Part 8: In Ukraine, we can see the hotspots there were online before the conflict began, during it, and I suggest taking a snapshot and looking and doing thus;
 
 Part 8.a: For each hotspot on the Network that remains online. These hotspot owners wallets will be staked to the validator. If their hotspots go offline, they continue to earn. 
 Part 8.b: For each hotspot on the Network that goes offline during the conflict. The Amount of HNT in their wallet will be reserved for them in the validator up to some limit.
 
-How this is claimed is not certain at the moment but people should have their seed keys, but if not, the specific hotspots will be known and can be blocked via deny list and the amount of HNT refunded to the user at some date. Either by providing their order number with the Manufactuor or some other method. 
+How this is claimed is not certain at the moment but people should have their seed keys, but if not, the specific hotspots will be known and can be blocked via deny list 
+and the amount of HNT refunded to the user at some date. Either by providing their order number with the Manufactuor or some other method. 
 
 Part 8.c. In the future. The funds in the validator can be used to fund new hotspots, or fund donations, or fund food, charities, or can be used to help rebuild. 
 
@@ -74,23 +102,28 @@ Part 8.c. In the future. The funds in the validator can be used to fund new hots
 ## Motivation
 [motivation]: #motivation
 
-At the moment, in Ukraine, we have thousands of Hotspots belonging to our brothers and sisters who have helped this network to become what it is. Though many hotspots remain online right now, with the rush to get out, the war, the invasion, nothing is certain. In the coming days, weeks, months our family will need our help to rebuild. 
+At the moment, in Ukraine, we have thousands of Hotspots belonging to our brothers and sisters who have helped this network to become what it is. Though many hotspots remain 
+online right now, with the rush to get out, the war, the invasion, nothing is certain. In the coming days, weeks, months our family will need our help to rebuild. 
 
-While humanatian aid is great, and will do its part, and donating money to causes is worth while, there is also something to be said for having access to our own funds to take care of your own situation when you need it. Right now, their economic future (never mind the rest) is uncertain. 
+While humanatian aid is great, and will do its part, and donating money to causes is worth while, there is also something to be said for having access to our own funds to
+take care of your own situation when you need it. Right now, their economic future (never mind the rest) is uncertain. 
 
 ## Stakeholders
 [stakeholders]: #stakeholders #eu-ukraine
 
-While this HIP affects everyone in the network, the only real effect is that ordinary a single Validator will not be able to participate in block production, leading to a loss of the “random” HNT flow (6% of total HNT mined) to the Hotspot pool.  The participants most affected by this change are those interested in running Validators.
+While this HIP affects everyone in the network, the only real effect is that ordinary a single Validator will not be able to participate in block production, leading to a 
+loss of the “random” HNT flow (6% of total HNT mined) to the Hotspot pool.  The participants most affected by this change are those interested in running Validators.
 
-We also expect the Testnet process, wherein we will stand up a separate network of Validators for testing purposes and to allow Validator runners to gain operational experience, to generate interest from outside of the community, as there exist professional Staking and Validator Pools for other blockchains.
+We also expect the Testnet process, wherein we will stand up a separate network of Validators for testing purposes and to allow Validator runners to gain operational 
+experience, to generate interest from outside of the community, as there exist professional Staking and Validator Pools for other blockchains.
 
 ## Detailed Explanation
 [detailed-explanation]: #detailed-explanation
 
 
 #### Ledger changes
-To make this happen, we would make a new ledger entry type for the Special Validator.  This entry would have the Validator's stake level and the owning account, and any other required metadata.  All HNT earned by the Validator will automatically go into the owning account but is NOT immediately liquid.
+To make this happen, we would make a new ledger entry type for the Special Validator.  This entry would have the Validator's stake level and the owning account, and any 
+other required metadata.  All HNT earned by the Validator will automatically go into the owning account but is NOT immediately liquid.
 
 #### Transactions
 Same
@@ -103,13 +136,16 @@ Same
 
 #### Staking in depth ...
 
-Stake is unlimited, however in the current proposal there are no benefits to overstaking. Overstaking and other features such as delegation will be subject to the HIP community approval process.
+Stake is unlimited, however in the current proposal there are no benefits to overstaking. Overstaking and other features such as delegation will be subject to the HIP 
+community approval process.
 
-Please see open questions for how overstake may be applied to returns. We expect a discussion in the community to help resolve exactly how this should work and will update the HIP to reflect that discussion.
+Please see open questions for how overstake may be applied to returns. We expect a discussion in the community to help resolve exactly how this should work and will update 
+the HIP to reflect that discussion.
 
 #### Hardware and Networking
 
-Validator nodes will need large disks for storing the chain and the ledger, and strong (but relatively modest by modern server standards) CPUs and RAM.  An AWS T2.large or xlarge should work fine.
+Validator nodes will need large disks for storing the chain and the ledger, and strong (but relatively modest by modern server standards) CPUs and RAM.  
+An AWS T2.large or xlarge should work fine.
 
 We have put aside Three Servers in CoLogix, Vancouver, Canada for this purpose running bare metal. Waiting deployment. The cost of these servers will be absored for the year. 
 
