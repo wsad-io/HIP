@@ -109,12 +109,6 @@ take care of your own situation when you need it. Right now, their economic futu
 ## Stakeholders
 [stakeholders]: #stakeholders #eu-ukraine
 
-While this HIP affects everyone in the network, the only real effect is that ordinary a single Validator will not be able to participate in block production, leading to a 
-loss of the “random” HNT flow (6% of total HNT mined) to the Hotspot pool.  The participants most affected by this change are those interested in running Validators.
-
-We also expect the Testnet process, wherein we will stand up a separate network of Validators for testing purposes and to allow Validator runners to gain operational 
-experience, to generate interest from outside of the community, as there exist professional Staking and Validator Pools for other blockchains.
-
 ## Detailed Explanation
 [detailed-explanation]: #detailed-explanation
 
